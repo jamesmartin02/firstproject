@@ -1,0 +1,77 @@
+body{
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+    color: black;
+    
+}
+#banner{
+    width: 100%;
+    object-fit: cover;
+
+}
+#navbar{
+    padding: 4px;
+    margin: 0px;
+}
+#about{
+    display: flex;
+    max-width: 800px;
+    margin: 0 auto;
+}
+#description{
+    width: 50%;
+    padding-right: 8px;
+
+}
+#team{
+    width: 50%;
+}
+#teamimage{
+    border-radius: 15px;
+    width: 100%;
+    
+
+}
+
+.location{
+    color: gray;
+}
+h2{
+    text-align: center;
+}
+#jobs{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 8px;
+}
+h3{
+    margin: 0;
+}
+.apply{
+    float: right;
+}
+#footer{
+    background-color:ghostwhite;
+    padding: 8px;
+    margin-top: 32px;
+
+
+}
+#footer-links {
+    list-style: none;
+    text-align: center;
+
+}
+#footer-links li{
+    display: inline;
+    margin: 0 16px;
+}
+a{
+    text-decoration: none;
+}
+.copyright{
+    color: gray;
+    text-align: center;
+}
